@@ -4,13 +4,12 @@
 //  - Include color, special abilities, where it lives, and any other information you'd like to include.
 //  - Once complete, run your code.
 
-
-
-
-
-
-
-
+const mythicalCreature = {
+name: "Kirby",
+color: "pink",
+  specialAbility: ["fly", " eat"],
+  livesAt: "Kirby's Dreamland"
+}
 
 
 
